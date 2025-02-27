@@ -333,7 +333,7 @@ ul {
     border-radius: 5px;
     font-size: 12px;
 }
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 768px) {
     nav a{
         display:none; /* Navbar hidden initially */
         
